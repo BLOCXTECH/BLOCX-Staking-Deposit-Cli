@@ -39,10 +39,10 @@ BlocxSetting = BaseChainSetting(
 
 
 ALL_CHAINS: Dict[str, BaseChainSetting] = {
-    MAINNET: MainnetSetting,
-    SEPOLIA: SepoliaSetting,
-    HOLESKY: HoleskySetting,
-    MEKONG: MekongSetting,
+    # MAINNET: MainnetSetting,
+    # SEPOLIA: SepoliaSetting,
+    # HOLESKY: HoleskySetting,
+    # MEKONG: MekongSetting,
     BLOCX: BlocxSetting
 }
 
